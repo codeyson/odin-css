@@ -1,0 +1,42 @@
+.first-container {
+    background-color: rgb(255, 0, 0);
+}
+
+.second-container {
+    background-color: rgb(1, 255, 56);
+}
+
+.third-container {
+    background-color: blueviolet;
+}
+
+.fourth-container {
+    background-color: blue;
+}
+
+.fifth-container {
+    background-color: yellow;
+}
+
+
+
+
+.header1-container {
+    background-color: blue;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    flex-direction: ;
+}
+ 
+ .item {
+    width: 60px;
+    height: 60px;
+    border: 4px solid rgb(114, 156, 247);
+    padding: 16px;
+    background: rgb(255, 255, 255);
+    border-radius: 1em;
+ }
