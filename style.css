@@ -1,5 +1,27 @@
 .first-container {
     background-color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.header-link {
+    display: flex;
+}
+.logo {
+    color: white;
+    font-weight: bold;
+}
+
+.header-link-one {
+    margin: 2 2 2 3;
+}
+
+.header-link-two {
+    margin: auto;
+}
+.first-body {
+    background-color: aqua;
 }
 
 .second-container {
