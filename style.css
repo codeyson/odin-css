@@ -30,6 +30,7 @@
 
 .third-container {
     background-color: blueviolet;
+
 }
 
 .fourth-container {
@@ -37,7 +38,7 @@
 }
 
 .fifth-container {
-    background-color: yellow;
+    background-color: rgb(0, 186, 254);
 }
 
 
@@ -61,4 +62,16 @@
     padding: 16px;
     background: rgb(255, 255, 255);
     border-radius: 1em;
+ }
+
+ .second-header {
+    display: flex;
+    justify-content: center;
+ }
+
+ .copyright-container {
+    display: flex;
+    justify-content: center;
+    color: white;
+    
  }
